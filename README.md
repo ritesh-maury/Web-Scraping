@@ -2,9 +2,22 @@
 
 Web scraping is an automated method used to extract large amounts of data from websites.
 
+# Steps: 
+
+What is Web Scrapping 
+Choose Websites and product
+Scrap one Page
+Scrap multiple pages
+Make Data Frame
+Store into Database: CSV & MongoDB
 
 
-![image](https://user-images.githubusercontent.com/35790897/147965233-faab4f7f-ca3c-4fd8-95ac-fa908d4f233d.png)
+
+
+
+
+
+YouTube Link for this project: 
 
 
 
