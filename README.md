@@ -19,6 +19,7 @@ Make Data Frame
 Store into Database: CSV & MongoDB
 
 
+![image](https://user-images.githubusercontent.com/35790897/147969648-988d2d86-edbf-41e7-bc9e-244b94194eae.png)
 
 
 
