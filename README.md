@@ -1,3 +1,5 @@
+# YouTube Link for this project: 
+
 # i-phone Data Extraction from flipkart
 
 Web scraping is an automated method used to extract large amounts of data from websites.
@@ -22,7 +24,7 @@ Store into Database: CSV & MongoDB
 
 
 
-YouTube Link for this project: 
+
 
 
 
