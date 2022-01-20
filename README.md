@@ -5,8 +5,11 @@
 All part: 
 
 Part1: https://youtu.be/UsySe3mBlC4
+
 Part2:https://youtu.be/ZFvGG0JUhyY
+
 Part3:https://youtu.be/t_bE4oWAQi0
+
 Part4: https://youtu.be/eEH3Pa_iulc
 
 Web scraping is an automated method used to extract large amounts of data from websites.
